@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.ad699996.css",
-    "main.js": "/portafolio/static/js/main.2bedef6e.js",
+    "main.js": "/portafolio/static/js/main.6c02f354.js",
     "static/media/senaProyect.png": "/portafolio/static/media/senaProyect.17433b9217c10436c960.png",
     "static/media/instagramClon.png": "/portafolio/static/media/instagramClon.694c6410c854e54ce9f3.png",
     "static/media/graphql.png": "/portafolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/foto.jpg": "/portafolio/static/media/foto.4b45c28d36b0d16adc12.jpg",
     "static/media/cuentaUnibague.png": "/portafolio/static/media/cuentaUnibague.6ff45ffe2b763eeedbb4.png",
     "static/media/react.png": "/portafolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/nextjs.png": "/portafolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
     "static/media/github.png": "/portafolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/foto.jpg": "/portafolio/static/media/foto.49913c4a4a563a193880.jpg",
     "static/media/html.png": "/portafolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/portafolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/portafolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/portafolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portafolio/index.html",
     "main.ad699996.css.map": "/portafolio/static/css/main.ad699996.css.map",
-    "main.2bedef6e.js.map": "/portafolio/static/js/main.2bedef6e.js.map"
+    "main.6c02f354.js.map": "/portafolio/static/js/main.6c02f354.js.map"
   },
   "entrypoints": [
     "static/css/main.ad699996.css",
-    "static/js/main.2bedef6e.js"
+    "static/js/main.6c02f354.js"
   ]
 }
